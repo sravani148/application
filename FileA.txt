@@ -1,3 +1,5 @@
 This is fileA
 Making some changes here...
 removed
+
+Adding ne Feature 100

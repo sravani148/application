@@ -2,6 +2,7 @@ This is fileB
 <<<<<<< HEAD
 Lets make some change
 =======
+Adding some text and posting through azure repos
 
 Lets make some change - testing merging process
 >>>>>>> FeatureA

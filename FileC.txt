@@ -1,1 +1,2 @@
 This is named as FileC
+Added some text here, and then merge

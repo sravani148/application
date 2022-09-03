@@ -1,2 +1,7 @@
 This is fileB
+<<<<<<< HEAD
 Lets make some change
+=======
+
+Lets make some change - testing merging process
+>>>>>>> FeatureA
